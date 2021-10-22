@@ -19,7 +19,6 @@
       "breakcirculardependency": true,
       "forcealiasattributes": false
     },
-    */
     "codegen": {
       "useappsyncmodelgenplugin": true,
       "usedocsgeneratorplugin": true,
@@ -32,6 +31,7 @@
       "generateindexrules": true,
       "enabledartnullsafety": true
     },
+    */
     "appsync": {
       "generategraphqlpermissions": true
     },
