@@ -10,10 +10,10 @@
       "secondarykeyasgsi": true,
       "skipoverridemutationinputtypes": true
     },
-    */
     "frontend-ios": {
       "enablexcodeintegration": true
     },
+    */
     "auth": {
       "enablecaseinsensitivity": true,
       "useinclusiveterminology": true,
